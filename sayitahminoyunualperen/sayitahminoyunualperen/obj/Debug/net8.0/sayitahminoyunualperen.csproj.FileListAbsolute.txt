@@ -1,0 +1,14 @@
+C:\Users\memos\OneDrive\Masaüstü\sayitahminoyunualperen\sayitahminoyunualperen\bin\Debug\net8.0\sayitahminoyunualperen.exe
+C:\Users\memos\OneDrive\Masaüstü\sayitahminoyunualperen\sayitahminoyunualperen\bin\Debug\net8.0\sayitahminoyunualperen.deps.json
+C:\Users\memos\OneDrive\Masaüstü\sayitahminoyunualperen\sayitahminoyunualperen\bin\Debug\net8.0\sayitahminoyunualperen.runtimeconfig.json
+C:\Users\memos\OneDrive\Masaüstü\sayitahminoyunualperen\sayitahminoyunualperen\bin\Debug\net8.0\sayitahminoyunualperen.dll
+C:\Users\memos\OneDrive\Masaüstü\sayitahminoyunualperen\sayitahminoyunualperen\bin\Debug\net8.0\sayitahminoyunualperen.pdb
+C:\Users\memos\OneDrive\Masaüstü\sayitahminoyunualperen\sayitahminoyunualperen\obj\Debug\net8.0\sayitahminoyunualperen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memos\OneDrive\Masaüstü\sayitahminoyunualperen\sayitahminoyunualperen\obj\Debug\net8.0\sayitahminoyunualperen.AssemblyInfoInputs.cache
+C:\Users\memos\OneDrive\Masaüstü\sayitahminoyunualperen\sayitahminoyunualperen\obj\Debug\net8.0\sayitahminoyunualperen.AssemblyInfo.cs
+C:\Users\memos\OneDrive\Masaüstü\sayitahminoyunualperen\sayitahminoyunualperen\obj\Debug\net8.0\sayitahminoyunualperen.csproj.CoreCompileInputs.cache
+C:\Users\memos\OneDrive\Masaüstü\sayitahminoyunualperen\sayitahminoyunualperen\obj\Debug\net8.0\sayitahminoyunualperen.dll
+C:\Users\memos\OneDrive\Masaüstü\sayitahminoyunualperen\sayitahminoyunualperen\obj\Debug\net8.0\refint\sayitahminoyunualperen.dll
+C:\Users\memos\OneDrive\Masaüstü\sayitahminoyunualperen\sayitahminoyunualperen\obj\Debug\net8.0\sayitahminoyunualperen.pdb
+C:\Users\memos\OneDrive\Masaüstü\sayitahminoyunualperen\sayitahminoyunualperen\obj\Debug\net8.0\sayitahminoyunualperen.genruntimeconfig.cache
+C:\Users\memos\OneDrive\Masaüstü\sayitahminoyunualperen\sayitahminoyunualperen\obj\Debug\net8.0\ref\sayitahminoyunualperen.dll
